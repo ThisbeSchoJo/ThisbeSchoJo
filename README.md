@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi, I’m Thisbe Scholfield-Johnson 👋
+
+## I'm a full-stack software engineer with a background in STEM and healthcare consulting
+
+### Connect with me
+[<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
+### Technology Stack
+
+### Latest Blog Posts
 
 <!--
 **ThisbeSchoJo/ThisbeSchoJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
