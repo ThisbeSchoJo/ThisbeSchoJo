@@ -3,7 +3,7 @@
 ## I'm a full-stack software engineer with a background in STEM and healthcare consulting
 
 ### Connect with me
-[<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thisbe/)
 
 ### Technology Stack
 
