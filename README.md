@@ -1,6 +1,6 @@
-### Hi, I’m Thisbe Scholfield-Johnson 👋
+### Thisbe Scholfield-Johnson
 
-## I'm a full-stack software engineer with a background in STEM and healthcare consulting.
+## Full-stack software engineer with a background in STEM and healthcare consulting.
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisbe/)
