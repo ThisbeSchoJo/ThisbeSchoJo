@@ -10,6 +10,9 @@
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/93340815)
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/thisbeschojo)
 
+### Currently Working On:
+**[Still Strava](https://github.com/ThisbeSchoJo/still-strava)** — A peaceful outdoor social app for logging slow or sedentary nature-based activities like stargazing, foraging, and hammocking. Built with **React**, **Flask**, and **PostgreSQL**, it encourages appreciation of the outdoors and makes it easy to share gentle experiences—something I especially valued while recovering from an ankle injury.
+
 ### Technology Stack:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -24,9 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
-
-### Currently Working On:
-**[Still Strava](https://github.com/ThisbeSchoJo/still-strava)** — A peaceful outdoor social app for logging slow or sedentary nature-based activities like stargazing, foraging, and hammocking. Built with **React**, **Flask**, and **PostgreSQL**, it encourages appreciation of the outdoors and makes it easy to share gentle experiences—something I especially valued while recovering from an ankle injury.
 
 <!--
 **ThisbeSchoJo/ThisbeSchoJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
