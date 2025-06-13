@@ -27,7 +27,7 @@
 
 ### Currently Working On:
 <p> <strong>Still Strava</strong> — A peaceful outdoor social app for logging slow or sedentary nature-based activities like stargazing, foraging, and hammocking. Built with <strong>React</strong>, <strong>Flask</strong>, and <strong>PostgreSQL</strong>, it’s designed to encourage appreciation of the outdoors and make it easy to share gentle experiences—something I especially valued while recovering from an ankle injury. </p>
-[👉 View the repo](https://github.com/ThisbeSchoJo/still-strava)
+View the repo 👉 https://github.com/ThisbeSchoJo/still-strava
 
 <!--
 **ThisbeSchoJo/ThisbeSchoJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
