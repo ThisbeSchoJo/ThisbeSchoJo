@@ -25,6 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
+### Currently Working On
+<p>
+  Still Strava — A peaceful outdoor social app for logging slow or sedentary nature-based activities like stargazing, foraging, and hammocking. Built with React, Flask, and PostgreSQL, it’s designed to support a deeper connection with nature and make it easy to log gentle outdoor experiences—something I found especially helpful while recovering from an ankle injury.
+</p>
+
 <!--
 **ThisbeSchoJo/ThisbeSchoJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
