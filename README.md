@@ -1,6 +1,6 @@
-### Thisbe Scholfield-Johnson
+## Thisbe Scholfield-Johnson *(she/her)*
 
-## Full-stack software engineer blending STEM insight with a love for building useful, human-centered tools.
+### Full-stack software engineer blending STEM insight with a love for building useful, human-centered tools.
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisbe/)
@@ -11,7 +11,7 @@
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/thisbeschojo)
 
 ### Currently Working On:
-**[Still Strava](https://github.com/ThisbeSchoJo/still-strava)** — A peaceful outdoor social app for logging slow or sedentary nature-based activities like stargazing, foraging, and hammocking. Built with **React**, **Flask**, and **PostgreSQL**, it encourages appreciation of the outdoors and makes it easy to share gentle experiences—something I especially valued while recovering from an ankle injury.
+**[Still Strava](https://github.com/ThisbeSchoJo/still-strava)** — A peaceful outdoor social app for logging slow or sedentary nature-based activities like stargazing, foraging, and hammocking. Built with **React**, **Flask**, and **PostgreSQL**, it encourages appreciation of the outdoors and makes it easy to share simple, meaningful moments outdoors—something I especially valued while recovering from a recent ankle injury.
 
 ### Technology Stack:
 <p align="left">
@@ -27,6 +27,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
+
+
+> Currently learning: **TypeScript**
+
+
+### Outside of code, I enjoy...  
+- Road cycling and tennis
+- Camping, hiking, and collecting rocks
+- Reading coming-of-age fiction and sci-fi
+- Figure drawing and shooting film
+- Cooking vegetarian meals and baking
+- Learning about epigenetics, health science, and whatever else catches my curiosity
+- (Very slowly) carving wooden spoons
+
+
 
 <!--
 **ThisbeSchoJo/ThisbeSchoJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
