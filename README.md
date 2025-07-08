@@ -33,8 +33,8 @@
 
 ### Outside of code, I enjoy...  
 - Road cycling and tennis
-- Camping, hiking, and collecting rocks
-- Reading coming-of-age fiction and sci-fi
+- Camping, hiking, collecting rocks
+- Reading (a lot of coming-of-age fiction and sci-fi)
 - Figure drawing and shooting film
 - Cooking vegetarian meals and baking
 - Learning about epigenetics, health science, and whatever else catches my curiosity
