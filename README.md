@@ -10,7 +10,7 @@
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/thisbeschojo)
 
 ### Currently Working On:
-**[Still Strava](https://github.com/ThisbeSchoJo/still-strava)** — A peaceful outdoor social app for logging slow or sedentary nature-based activities like stargazing, foraging, and hammocking. Built with **React**, **Flask**, and **PostgreSQL**, it encourages appreciation of the outdoors and makes it easy to share simple, meaningful moments outdoors—something I especially valued while recovering from a recent ankle injury.
+**[Still Strava](https://github.com/ThisbeSchoJo/still-strava)** — A full-stack social platform inspired by Strava that allows outdoor enthusiasts to share and discover nature activities. Built with **React.js** and **Flask**, the app features interactive maps, photo galleries, and activity statistics, enabling users to document their adventures through activities like hammocking, rockhounding, and stargazing. The platform includes social features like likes, comments, and user profiles with activity dashboards, creating a community for nature lovers to connect and inspire each other.
 
 ### Technology Stack:
 <p align="left">
