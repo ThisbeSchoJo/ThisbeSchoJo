@@ -10,7 +10,8 @@
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/thisbeschojo)
 
 ### Currently Working On:
-**[Still Strava](https://github.com/ThisbeSchoJo/still-strava)** — A full-stack social platform inspired by Strava that allows outdoor enthusiasts to share and discover nature activities. Built with **React.js** and **Flask**, the app features interactive maps, photo galleries, and activity statistics, enabling users to document their adventures through activities like hammocking, rockhounding, and stargazing. The platform includes social features like likes, comments, and user profiles with activity dashboards, creating a community for nature lovers to connect and inspire each other.
+**[Still Strava](https://github.com/ThisbeSchoJo/still-strava)** — A full-stack location-based app that connects local egg sellers with nearby buyers. Built with **React.js** and **Flask**, the app features interactive maps, seller profiles, and product listings, enabling users to discover and purchase fresh eggs from local backyard farmers and small-scale producers. The platform promotes transparency with details on animal welfare, space, and sourcing practices, while social features like reviews, messaging, and favorite sellers foster a community that values ethical, local food connections.
+
 
 ### Technology Stack:
 <p align="left">
