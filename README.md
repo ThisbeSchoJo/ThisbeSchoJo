@@ -32,17 +32,6 @@
 > Currently learning: **TypeScript**
 
 
-### Outside of code, I enjoy...  
-- Road cycling and tennis
-- Camping and hiking
-- Reading (a lot of coming-of-age fiction and sci-fi)
-- Figure drawing and shooting film
-- Cooking vegetarian meals and baking
-- Learning about epigenetics, health science, and whatever else catches my curiosity
-- (Very slowly) carving wooden spoons
-
-
-
 <!--
 **ThisbeSchoJo/ThisbeSchoJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
