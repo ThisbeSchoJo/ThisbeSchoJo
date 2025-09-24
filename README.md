@@ -10,11 +10,11 @@
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/thisbeschojo)
 
 ### Connect with me:
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/thisbe/)
-[![Codewars](https://www.codewars.com/packs/assets/logo.61192cf7.svg)](https://www.codewars.com/users/ThisbeSchoJo)
-[![Medium](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg)](https://medium.com/@thisbeschojo)
-[![Strava](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/strava.svg)](https://www.strava.com/athletes/93340815)
-[![Goodreads](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/goodreads.svg)](https://www.goodreads.com/thisbeschojo)
+<a href="https://www.linkedin.com/in/thisbe/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.codewars.com/users/ThisbeSchoJo"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" height="28" alt="Codewars" /></a>&nbsp;
+<a href="https://medium.com/@thisbeschojo"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="28" alt="Medium" /></a>&nbsp;
+<a href="https://www.strava.com/athletes/93340815"><img src="https://www.vectorlogo.zone/logos/strava/strava-icon.svg" height="28" alt="Strava" /></a>&nbsp;
+<a href="https://www.goodreads.com/thisbeschojo"><img src="https://www.vectorlogo.zone/logos/goodreads/goodreads-icon.svg" height="28" alt="Goodreads" /></a>
 
 
 ### Currently Working On:
