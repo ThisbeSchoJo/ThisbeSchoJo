@@ -3,26 +3,11 @@
 ### Full-stack software engineer blending STEM background with a love for building useful, human-centered tools.
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisbe/)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ThisbeSchoJo)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thisbeschojo)
-[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/93340815)
-[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/thisbeschojo)
-
-### Connect with me:
 <a href="https://www.linkedin.com/in/thisbe/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" /></a>&nbsp;
 <a href="https://www.codewars.com/users/ThisbeSchoJo"><img src="https://cdn.simpleicons.org/codewars/B1361E" height="26" alt="Codewars" /></a>&nbsp;
 <a href="https://medium.com/@thisbeschojo"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="28" alt="Medium" /></a>&nbsp;
 <a href="https://www.strava.com/athletes/93340815"><img src="https://www.vectorlogo.zone/logos/strava/strava-icon.svg" height="28" alt="Strava" /></a>&nbsp;
 <a href="https://www.goodreads.com/thisbeschojo"><img src="https://cdn.simpleicons.org/goodreads/372213" height="26" alt="Goodreads" /></a>
-
-### Connect with me:
-<a href="https://www.linkedin.com/in/thisbe/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="26" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.codewars.com/users/ThisbeSchoJo"><img src="https://cdn.simpleicons.org/codewars/B1361E" height="26" alt="Codewars" /></a>&nbsp;
-<a href="https://medium.com/@thisbeschojo"><img src="https://cdn.simpleicons.org/medium/000000" height="26" alt="Medium" /></a>&nbsp;
-<a href="https://www.strava.com/athletes/93340815"><img src="https://cdn.simpleicons.org/strava/FC4C02" height="26" alt="Strava" /></a>&nbsp;
-<a href="https://www.goodreads.com/thisbeschojo"><img src="https://cdn.simpleicons.org/goodreads/372213" height="26" alt="Goodreads" /></a>
-
 
 ### Currently Working On:
 **[Chickens](https://github.com/ThisbeSchoJo/chickens)** — A full-stack location-based app that connects local egg sellers with nearby buyers. Built with **React.js** and **Flask**, the app features interactive maps, seller profiles, and product listings, enabling users to discover and purchase fresh eggs from local backyard farmers and small-scale producers. The platform promotes transparency with details on animal welfare, space, and sourcing practices, while social features like reviews, messaging, and favorite sellers foster a community that values ethical, local food connections.
