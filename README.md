@@ -9,6 +9,14 @@
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/93340815)
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/thisbeschojo)
 
+### Connect with me:
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/thisbe/)
+[![Codewars](https://www.codewars.com/packs/assets/logo.61192cf7.svg)](https://www.codewars.com/users/ThisbeSchoJo)
+[![Medium](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg)](https://medium.com/@thisbeschojo)
+[![Strava](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/strava.svg)](https://www.strava.com/athletes/93340815)
+[![Goodreads](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/goodreads.svg)](https://www.goodreads.com/thisbeschojo)
+
+
 ### Currently Working On:
 **[Chickens](https://github.com/ThisbeSchoJo/chickens)** — A full-stack location-based app that connects local egg sellers with nearby buyers. Built with **React.js** and **Flask**, the app features interactive maps, seller profiles, and product listings, enabling users to discover and purchase fresh eggs from local backyard farmers and small-scale producers. The platform promotes transparency with details on animal welfare, space, and sourcing practices, while social features like reviews, messaging, and favorite sellers foster a community that values ethical, local food connections.
 
