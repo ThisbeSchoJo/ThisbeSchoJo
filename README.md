@@ -1,6 +1,6 @@
 ## Thisbe Scholfield-Johnson *(she/her)*
 
-### Full-stack software engineer blending STEM background with a love for building useful, human-centered tools.
+### Full-stack software engineer with a STEM background, building apps that spark exploration and enrich everyday life.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/thisbe/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" /></a>&nbsp;
