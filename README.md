@@ -2,17 +2,6 @@
 
 ### Full-stack software engineer with a STEM background, building apps that spark exploration and enrich everyday life.
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/thisbe/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.codewars.com/users/ThisbeSchoJo"><img src="https://cdn.simpleicons.org/codewars/B1361E" height="26" alt="Codewars" /></a>&nbsp;
-<a href="https://medium.com/@thisbeschojo"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="28" alt="Medium" /></a>&nbsp;
-<a href="https://www.strava.com/athletes/93340815"><img src="https://www.vectorlogo.zone/logos/strava/strava-icon.svg" height="28" alt="Strava" /></a>&nbsp;
-<a href="https://www.goodreads.com/thisbeschojo"><img src="https://cdn.simpleicons.org/goodreads/372213" height="26" alt="Goodreads" /></a>
-
-### Currently Working On:
-**[Chickens](https://github.com/ThisbeSchoJo/chickens)** — A full-stack location-based app that connects local egg sellers with nearby buyers. Built with **React.js** and **Flask**, the app features interactive maps, seller profiles, and product listings, enabling users to discover and purchase fresh eggs from local backyard farmers and small-scale producers. The platform promotes transparency with details on animal welfare, space, and sourcing practices, while social features like reviews, messaging, and favorite sellers foster a community that values ethical, local food connections.
-
-
 ### Technology Stack:
 <p align="left">
   <!-- Row 1 -->
@@ -41,6 +30,16 @@
 
 
 > Currently learning: **TypeScript**
+
+### Currently Working On:
+**[Chickens](https://github.com/ThisbeSchoJo/chickens)** — A full-stack location-based app that connects local egg sellers with nearby buyers. Built with **React.js** and **Flask**, the app features interactive maps, seller profiles, and product listings, enabling users to discover and purchase fresh eggs from local backyard farmers and small-scale producers. The platform promotes transparency with details on animal welfare, space, and sourcing practices, while social features like reviews, messaging, and favorite sellers foster a community that values ethical, local food connections.
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/thisbe/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.codewars.com/users/ThisbeSchoJo"><img src="https://cdn.simpleicons.org/codewars/B1361E" height="26" alt="Codewars" /></a>&nbsp;
+<a href="https://medium.com/@thisbeschojo"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="28" alt="Medium" /></a>&nbsp;
+<a href="https://www.strava.com/athletes/93340815"><img src="https://www.vectorlogo.zone/logos/strava/strava-icon.svg" height="28" alt="Strava" /></a>&nbsp;
+<a href="https://www.goodreads.com/thisbeschojo"><img src="https://cdn.simpleicons.org/goodreads/372213" height="26" alt="Goodreads" /></a>
 
 
 <!--
