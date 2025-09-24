@@ -11,10 +11,10 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/thisbe/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.codewars.com/users/ThisbeSchoJo"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" height="28" alt="Codewars" /></a>&nbsp;
+<a href="https://www.codewars.com/users/ThisbeSchoJo"><img src="https://cdn.simpleicons.org/codewars/B1361E" height="26" alt="Codewars" /></a>&nbsp;
 <a href="https://medium.com/@thisbeschojo"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" height="28" alt="Medium" /></a>&nbsp;
 <a href="https://www.strava.com/athletes/93340815"><img src="https://www.vectorlogo.zone/logos/strava/strava-icon.svg" height="28" alt="Strava" /></a>&nbsp;
-<a href="https://www.goodreads.com/thisbeschojo"><img src="https://www.vectorlogo.zone/logos/goodreads/goodreads-icon.svg" height="28" alt="Goodreads" /></a>
+<a href="https://www.goodreads.com/thisbeschojo"><img src="https://cdn.simpleicons.org/goodreads/372213" height="26" alt="Goodreads" /></a>
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/thisbe/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="26" alt="LinkedIn" /></a>&nbsp;
