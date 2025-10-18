@@ -45,7 +45,9 @@
 </p>
 
 > Currently learning: **AI integration & MCP servers**
-<hr style="height:2px;border:none;background:linear-gradient(to right, #ff7eb9, #ff758c, #ff7eb9);" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThisbeSJ/assets/main/pink-gradient-divider.svg" width="80%" alt="gradient line"/>
+</p>
 
 
 ### Currently Working On:
