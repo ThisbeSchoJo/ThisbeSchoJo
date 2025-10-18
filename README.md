@@ -4,6 +4,51 @@
 
 ### Technology Stack:
 <p align="left">
+
+  <!-- Core Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&labelColor=F7DF1E&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js" />
+  <br/>
+
+  <!-- Backend & APIs -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask" />
+  <img src="https://img.shields.io/badge/Flask--RESTful-000000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask-RESTful" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=fff&style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge" alt="JWT" />
+  <br/>
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=for-the-badge" alt="SQLAlchemy" />
+  <br/>
+
+  <!-- Data & Visualization -->
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff&style=for-the-badge" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?logo=googlemaps&logoColor=fff&style=for-the-badge" alt="Google Maps API" />
+  <br/>
+
+  <!-- Deployment & Tools -->
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=for-the-badge" alt="Railway" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub" />
+  <img src="https://img.shields.io/badge/bcrypt-00A98F?logo=lock&logoColor=fff&style=for-the-badge" alt="bcrypt" />
+  <br/>
+
+  <!-- Frontend & Markup -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3" />
+
+</p>
+
+> Currently learning: **TypeScript** · Exploring: **AI integration & MCP servers**
+
+
+
+<p align="left">
   <!-- Row 1 -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&labelColor=F7DF1E&style=for-the-badge" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
