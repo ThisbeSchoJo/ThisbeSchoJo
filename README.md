@@ -48,8 +48,9 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThisbeSJ/assets/main/pink-gradient-divider.svg" width="80%" alt="gradient line"/>
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/pinkwave.svg" width="100%" />
 </p>
+
 
 
 ### Currently Working On:
