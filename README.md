@@ -9,11 +9,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&labelColor=F7DF1E&style=for-the-badge" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge" alt="React Router" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" alt="Axios" />
-
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js" />
   <br/>
 
   <!-- Backend & APIs -->
@@ -22,9 +20,9 @@
   <img src="https://img.shields.io/badge/Flask--RESTful-000000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask-RESTful" />
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=fff&style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge" alt="JWT" />
+  <img src="https://img.shields.io/badge/bcrypt-00A98F?logo=lock&logoColor=fff&style=for-the-badge" alt="bcrypt" />
   <img src="https://img.shields.io/badge/Flask--Migrate-000000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask-Migrate" />
   <img src="https://img.shields.io/badge/Flask--CORS-000000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask-CORS" />
-
   <br/>
 
   <!-- Databases -->
@@ -33,22 +31,20 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=for-the-badge" alt="SQLAlchemy" />
   <br/>
 
+  <!-- AI & ML -->
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?logo=openai&logoColor=fff&style=for-the-badge" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/AI%20Integration-FF6B6B?logo=robotframework&logoColor=fff&style=for-the-badge" alt="AI Integration" />
+  <br/>
+
   <!-- Data & Visualization -->
   <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff&style=for-the-badge" alt="Chart.js" />
   <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?logo=googlemaps&logoColor=fff&style=for-the-badge" alt="Google Maps API" />
   <br/>
 
-  <!-- AI & ML -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/AI%20Integration-FF6B6B?logo=robotframework&logoColor=fff&style=for-the-badge" alt="AI Integration" />
-  <br/>
-
-
   <!-- Deployment & Tools -->
   <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=for-the-badge" alt="Railway" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub" />
-  <img src="https://img.shields.io/badge/bcrypt-00A98F?logo=lock&logoColor=fff&style=for-the-badge" alt="bcrypt" />
   <br/>
 
   <!-- Frontend & Markup -->
@@ -58,6 +54,7 @@
 </p>
 
 > Currently learning: **AI integration & MCP servers**
+
 
 ### Currently Working On:
 **[Chickens](https://github.com/ThisbeSchoJo/chickens)** — A full-stack location-based app that connects local egg sellers with nearby buyers. Built with **React.js** and **Flask**, the app features interactive maps, seller profiles, and product listings, enabling users to discover and purchase fresh eggs from local backyard farmers and small-scale producers. The platform promotes transparency with details on animal welfare, space, and sourcing practices, while social features like reviews, messaging, and favorite sellers foster a community that values ethical, local food connections.
