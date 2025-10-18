@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?logo=fastapi&logoColor=fff&style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge" alt="JWT" />
   <img src="https://img.shields.io/badge/bcrypt-00A98F?logo=lock&logoColor=fff&style=for-the-badge" alt="bcrypt" />
-  <img src="https://img.shields.io/badge/Flask--Migrate-000000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask-Migrate" />
-  <img src="https://img.shields.io/badge/Flask--CORS-000000?logo=flask&logoColor=fff&style=for-the-badge" alt="Flask-CORS" />
   <br/>
 
   <!-- Databases -->
