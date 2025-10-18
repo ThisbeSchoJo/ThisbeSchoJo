@@ -51,7 +51,7 @@
 
 </p>
 
-> Currently learning: **AI integration & MCP servers**
+> Currently learning about: **MCP servers**
 
 
 ### Currently Working On:
