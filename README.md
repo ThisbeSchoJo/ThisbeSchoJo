@@ -46,13 +46,6 @@
 
 > Currently learning: **AI integration & MCP servers**
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/pinkwave.svg" width="100%" />
-</p>
-
-
-
 ### Currently Working On:
 **[Chickens](https://github.com/ThisbeSchoJo/chickens)** — A full-stack location-based app that connects local egg sellers with nearby buyers. Built with **React.js** and **Flask**, the app features interactive maps, seller profiles, and product listings, enabling users to discover and purchase fresh eggs from local backyard farmers and small-scale producers. The platform promotes transparency with details on animal welfare, space, and sourcing practices, while social features like reviews, messaging, and favorite sellers foster a community that values ethical, local food connections.
 
