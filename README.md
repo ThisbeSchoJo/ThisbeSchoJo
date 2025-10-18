@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge" alt="React Router" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" alt="Axios" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" alt="Axios" />
   <br/>
 
   <!-- Backend & APIs -->
@@ -31,7 +31,6 @@
 
   <!-- AI & ML -->
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?logo=openai&logoColor=fff&style=for-the-badge" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/AI%20Integration-FF6B6B?logo=robotframework&logoColor=fff&style=for-the-badge" alt="AI Integration" />
   <br/>
 
   <!-- Data & Visualization -->
@@ -50,6 +49,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3" />
 
 </p>
+<br/>
 
 > Currently learning about: **MCP servers**
 
