@@ -45,6 +45,8 @@
 </p>
 
 > Currently learning: **AI integration & MCP servers**
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ThisbeSJ/assets/main/pink-gradient-divider.svg" width="80%" alt="gradient line"/>
 </p>
