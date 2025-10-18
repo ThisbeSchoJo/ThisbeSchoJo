@@ -31,6 +31,12 @@
   <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?logo=googlemaps&logoColor=fff&style=for-the-badge" alt="Google Maps API" />
   <br/>
 
+  <!-- AI & ML -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/AI%20Integration-FF6B6B?logo=robotframework&logoColor=fff&style=for-the-badge" alt="AI Integration" />
+  <br/>
+
+
   <!-- Deployment & Tools -->
   <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=fff&style=for-the-badge" alt="Railway" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git" />
